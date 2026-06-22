@@ -21,7 +21,7 @@ This project allows users to control their laptop using hand gestures through a 
 3. Finger positions determine gestures
 4. Gestures control mouse and system actions
 
-## Run the Project
+## Run this Project
 
 Install required libraries:
 
