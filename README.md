@@ -10,7 +10,7 @@ This project allows users to control their laptop using hand gestures through a 
 - Touchless computer interaction
 
 ## Technologies Used
-- Python
+- Python.
 - OpenCV
 - MediaPipe
 - PyAutoGUI
