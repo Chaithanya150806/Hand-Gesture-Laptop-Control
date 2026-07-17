@@ -3,7 +3,7 @@
 This project allows users to control their laptop using hand gestures through a webcam.
 
 ## Features
-- Real-time hand tracking
+- Real time hand tracking
 - Cursor control using index finger
 - Pinch gesture for mouse click
 - Gesture-based pause and resume
